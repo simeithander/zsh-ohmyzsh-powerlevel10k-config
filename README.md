@@ -64,14 +64,14 @@ cd zsh-ohmyzsh-powerlevel10k-config
 - **Objetivo**: Conceder permissões de execução ao arquivo `.sh` para que o script possa ser executado.
 
 ```bash
-chmod +x install.sh
+chmod +x zsh-config.sh 
 ```
 
 ### 4. Executando o script
 - **Objetivo**: Executar o script que realizará a instalação e configuração do ZSH, Oh My ZSH e PowerLevel10k.
 
 ```bash
-./install.sh
+./zsh-config.sh
 ```
 
 ---
@@ -140,14 +140,14 @@ cd zsh-ohmyzsh-powerlevel10k-config
 - **Objective**: Grant execution permissions to the `.sh` file so that the script can be run.
 
 ```bash
-chmod +x install.sh
+chmod +x zsh-config.sh
 ```
 
 ### 4. Running the script
 - **Objective**: Run the script that will install and configure ZSH, Oh My ZSH, and PowerLevel10k.
 
 ```bash
-./install.sh
+./zsh-config.sh
 ```
 
 ---
